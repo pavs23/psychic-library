@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LibraryApp</string>
+    <string name="scan_button">Scan</string>
+</resources>
